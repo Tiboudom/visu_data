@@ -1,0 +1,1057 @@
+UNIQUE_ID,TIME,SEX,AGE,ICD10,Value
+1,2001,Males,9,All causes of death (A00-Y89) excluding S00-T98,277858
+2,2001,Males,73,Certain infectious and parasitic diseases (A00-B99),5347
+3,2001,Males,33,Tuberculosis,545
+4,2001,Males,86,Meningococcal infection,30
+5,2001,Males,3,Viral hepatitis,471
+6,2001,Males,3,Human immunodeficiency virus [HIV] disease,892
+7,2001,Males,92,Neoplasms,91737
+8,2001,Males,38,Malignant neoplasms (C00-C97),88481
+9,2001,Males,50,Malignant neoplasm of lip; oral cavity; pharynx,3755
+10,2001,Males,65,Malignant neoplasm of oesophagus,3442
+11,2001,Males,40,Malignant neoplasm of stomach,3213
+12,2001,Males,20,Malignant neoplasm of colon,6274
+13,2001,Males,67,Malignant neoplasm of rectosigmoid junction; rectum; anus and anal canal,2242
+14,2001,Males,47,Malignant neoplasm of liver and intrahepatic bile ducts,5258
+15,2001,Males,2,Malignant neoplasm of pancreas,3788
+16,2001,Males,33,Malignant neoplasm of larynx;  trachea; bronchus and lung,22457
+17,2001,Males,74,Malignant melanoma of skin,761
+18,2001,Males,28,Malignant neoplasm of breast,177
+19,2001,Males,49,Malignant neoplasm of cervix uteri,69
+20,2001,Males,96,Malignant neoplasm of other parts of uterus,69
+21,2001,Males,81,Malignant neoplasm of ovary,69
+22,2001,Males,100,Malignant neoplasm of prostate,9327
+23,2001,Males,27,Malignant neoplasm of kidney; except renal pelvis,1937
+24,2001,Males,96,Malignant neoplasm of bladder,3231
+25,2001,Males,10,Malignant neoplasms; stated or presumed to be primary; of lymphoid; haematopoietic and related tissue,6863
+26,2001,Males,30,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,1000
+27,2001,Males,10,Endocrine; nutritional and metabolic diseases (E00-E90),8356
+28,2001,Males,41,Diabetes mellitus,5318
+29,2001,Males,9,Mental and behavioural disorders (F00-F99),7468
+30,2001,Males,61,Mental and behavioural disorders due to use of alcohol,2523
+31,2001,Males,40,Drug dependence; toxicomania (F11-F16; F18-F19),127
+32,2001,Males,90,Diseases of the nervous system and the sense organs (G00-H95),9497
+33,2001,Males,79,Meningitis,80
+34,2001,Males,54,Diseases of the circulatory system (I00-I99),75350
+35,2001,Males,45,Ischaemic heart diseases,24913
+36,2001,Males,79,Other heart diseases (I30-I33; I39-I52),19513
+37,2001,Males,35,Cerebrovascular diseases,16223
+38,2001,Males,36,Diseases of the respiratory system (J00-J99),17292
+39,2001,Males,88,Influenza,76
+40,2001,Males,48,Pneumonia,4947
+41,2001,Males,75,Chronic lower respiratory diseases,5566
+42,2001,Males,83,Asthma and status asthmaticus,647
+43,2001,Males,18,Diseases of the digestive system (K00-K93),13226
+44,2001,Males,53,Ulcer of stomach; duodenum and jejunum,486
+45,2001,Males,38,Chronic liver disease,6174
+46,2001,Males,54,Diseases of the skin and subcutaneous tissue (L00-L99),628
+47,2001,Males,81,Diseases of the musculoskeletal system and connective tissue (M00-M99),1387
+48,2001,Males,100,Rheumatoid arthritis and arthrosis (M05-M06;M15-M19),164
+49,2001,Males,12,Diseases of the genitourinary system  (N00-N99),3698
+50,2001,Males,64,Diseases of kidney and ureter,2809
+51,2001,Males,58,Pregnancy; childbirth and the puerperium (O00-O99),69
+52,2001,Males,72,Certain conditions originating in the perinatal period (P00-P96),1006
+53,2001,Males,54,Congenital malformations; deformations and chromosomal abnormalities (Q00-Q99),892
+54,2001,Males,87,Congenital malformations of the nervous system,88
+55,2001,Males,90,Congenital malformations of the circulatory system,329
+56,2001,Males,12,Symptoms; signs and abnormal clinical and laboratory findings; not elsewhere classified (R00-R99),15872
+57,2001,Males,53,Sudden infant death syndrome,229
+58,2001,Males,18,Ill-defined and unknown causes of mortality,7726
+59,2001,Males,90,External causes of morbidity and mortality (V01-Y89),25102
+60,2001,Males,53,Accidents,15867
+61,2001,Males,3,Transport accidents (V01-V99),5840
+62,2001,Males,92,Falls,2546
+63,2001,Males,3,Accidental poisoning by and exposure to noxious substances,459
+64,2001,Males,90,Intentional self-harm,7798
+65,2001,Males,18,Assault,324
+66,2001,Males,36,Event of undetermined intent,553
+67,2001,Females,53,All causes of death (A00-Y89) excluding S00-T98,263325
+68,2001,Females,12,Certain infectious and parasitic diseases (A00-B99),5157
+69,2001,Females,52,Tuberculosis,516
+70,2001,Females,84,Meningococcal infection,15
+71,2001,Females,60,Viral hepatitis,439
+72,2001,Females,39,Human immunodeficiency virus [HIV] disease,248
+73,2001,Females,69,Neoplasms,61421
+74,2001,Females,77,Malignant neoplasms (C00-C97),58262
+75,2001,Females,18,Malignant neoplasm of lip; oral cavity; pharynx,738
+76,2001,Females,15,Malignant neoplasm of oesophagus,699
+77,2001,Females,45,Malignant neoplasm of stomach,2020
+78,2001,Females,14,Malignant neoplasm of colon,5786
+79,2001,Females,55,Malignant neoplasm of rectosigmoid junction; rectum; anus and anal canal,1780
+80,2001,Females,81,Malignant neoplasm of liver and intrahepatic bile ducts,1705
+81,2001,Females,80,Malignant neoplasm of pancreas,3554
+82,2001,Females,61,Malignant neoplasm of larynx;  trachea; bronchus and lung,4624
+83,2001,Females,21,Malignant melanoma of skin,631
+84,2001,Females,2,Malignant neoplasm of breast,11088
+85,2001,Females,13,Malignant neoplasm of cervix uteri,793
+86,2001,Females,14,Malignant neoplasm of other parts of uterus,2192
+87,2001,Females,77,Malignant neoplasm of ovary,3260
+88,2001,Females,75,Malignant neoplasm of prostate,69
+89,2001,Females,68,Malignant neoplasm of kidney; except renal pelvis,1125
+90,2001,Females,22,Malignant neoplasm of bladder,1029
+91,2001,Females,99,Malignant neoplasms; stated or presumed to be primary; of lymphoid; haematopoietic and related tissue,5976
+92,2001,Females,35,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,1292
+93,2001,Females,61,Endocrine; nutritional and metabolic diseases (E00-E90),11668
+94,2001,Females,17,Diabetes mellitus,6223
+95,2001,Females,44,Mental and behavioural disorders (F00-F99),10527
+96,2001,Females,87,Mental and behavioural disorders due to use of alcohol,589
+97,2001,Females,45,Drug dependence; toxicomania (F11-F16; F18-F19),36
+98,2001,Females,57,Diseases of the nervous system and the sense organs (G00-H95),12230
+99,2001,Females,68,Meningitis,81
+100,2001,Females,43,Diseases of the circulatory system (I00-I99),87725
+101,2001,Females,83,Ischaemic heart diseases,20125
+102,2001,Females,93,Other heart diseases (I30-I33; I39-I52),26190
+103,2001,Females,22,Cerebrovascular diseases,22599
+104,2001,Females,8,Diseases of the respiratory system (J00-J99),15332
+105,2001,Females,84,Influenza,100
+106,2001,Females,99,Pneumonia,5773
+107,2001,Females,97,Chronic lower respiratory diseases,3291
+108,2001,Females,61,Asthma and status asthmaticus,871
+109,2001,Females,49,Diseases of the digestive system (K00-K93),11428
+110,2001,Females,30,Ulcer of stomach; duodenum and jejunum,517
+111,2001,Females,64,Chronic liver disease,2602
+112,2001,Females,18,Diseases of the skin and subcutaneous tissue (L00-L99),1587
+113,2001,Females,52,Diseases of the musculoskeletal system and connective tissue (M00-M99),2518
+114,2001,Females,90,Rheumatoid arthritis and arthrosis (M05-M06;M15-M19),575
+115,2001,Females,63,Diseases of the genitourinary system  (N00-N99),3994
+116,2001,Females,84,Diseases of kidney and ureter,3056
+117,2001,Females,80,Pregnancy; childbirth and the puerperium (O00-O99),61
+118,2001,Females,65,Certain conditions originating in the perinatal period (P00-P96),748
+119,2001,Females,95,Congenital malformations; deformations and chromosomal abnormalities (Q00-Q99),798
+120,2001,Females,42,Congenital malformations of the nervous system,92
+121,2001,Females,29,Congenital malformations of the circulatory system,312
+122,2001,Females,37,Symptoms; signs and abnormal clinical and laboratory findings; not elsewhere classified (R00-R99),19862
+123,2001,Females,87,Sudden infant death syndrome,123
+124,2001,Females,80,Ill-defined and unknown causes of mortality,6249
+125,2001,Females,89,External causes of morbidity and mortality (V01-Y89),16977
+126,2001,Females,46,Accidents,13165
+127,2001,Females,20,Transport accidents (V01-V99),2125
+128,2001,Females,45,Falls,2791
+129,2001,Females,7,Accidental poisoning by and exposure to noxious substances,496
+130,2001,Females,67,Intentional self-harm,2827
+131,2001,Females,93,Assault,210
+132,2001,Females,45,Event of undetermined intent,202
+133,2002,Males,64,All causes of death (A00-Y89) excluding S00-T98,278794
+134,2002,Males,73,Certain infectious and parasitic diseases (A00-B99),5468
+135,2002,Males,55,Tuberculosis,507
+136,2002,Males,60,Meningococcal infection,21
+137,2002,Males,66,Viral hepatitis,472
+138,2002,Males,36,Human immunodeficiency virus [HIV] disease,835
+139,2002,Males,29,Neoplasms,92331
+140,2002,Males,86,Malignant neoplasms (C00-C97),89122
+141,2002,Males,12,Malignant neoplasm of lip; oral cavity; pharynx,3834
+142,2002,Males,53,Malignant neoplasm of oesophagus,3509
+143,2002,Males,86,Malignant neoplasm of stomach,3256
+144,2002,Males,63,Malignant neoplasm of colon,6267
+145,2002,Males,49,Malignant neoplasm of rectosigmoid junction; rectum; anus and anal canal,2365
+146,2002,Males,32,Malignant neoplasm of liver and intrahepatic bile ducts,5231
+147,2002,Males,62,Malignant neoplasm of pancreas,3875
+148,2002,Males,57,Malignant neoplasm of larynx;  trachea; bronchus and lung,22533
+149,2002,Males,9,Malignant melanoma of skin,733
+150,2002,Males,62,Malignant neoplasm of breast,188
+151,2002,Males,17,Malignant neoplasm of cervix uteri,69
+152,2002,Males,11,Malignant neoplasm of other parts of uterus,69
+153,2002,Males,89,Malignant neoplasm of ovary,69
+154,2002,Males,93,Malignant neoplasm of prostate,9526
+155,2002,Males,12,Malignant neoplasm of kidney; except renal pelvis,1929
+156,2002,Males,2,Malignant neoplasm of bladder,3306
+157,2002,Males,97,Malignant neoplasms; stated or presumed to be primary; of lymphoid; haematopoietic and related tissue,6703
+158,2002,Males,12,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,1023
+159,2002,Males,59,Endocrine; nutritional and metabolic diseases (E00-E90),8366
+160,2002,Males,23,Diabetes mellitus,5195
+161,2002,Males,67,Mental and behavioural disorders (F00-F99),7476
+162,2002,Males,31,Mental and behavioural disorders due to use of alcohol,2559
+163,2002,Males,2,Drug dependence; toxicomania (F11-F16; F18-F19),121
+164,2002,Males,69,Diseases of the nervous system and the sense organs (G00-H95),9773
+165,2002,Males,44,Meningitis,96
+166,2002,Males,49,Diseases of the circulatory system (I00-I99),74756
+167,2002,Males,70,Ischaemic heart diseases,24569
+168,2002,Males,81,Other heart diseases (I30-I33; I39-I52),19657
+169,2002,Males,88,Cerebrovascular diseases,15948
+170,2002,Males,17,Diseases of the respiratory system (J00-J99),17849
+171,2002,Males,38,Influenza,219
+172,2002,Males,93,Pneumonia,5214
+173,2002,Males,59,Chronic lower respiratory diseases,5656
+174,2002,Males,40,Asthma and status asthmaticus,559
+175,2002,Males,52,Diseases of the digestive system (K00-K93),13000
+176,2002,Males,55,Ulcer of stomach; duodenum and jejunum,493
+177,2002,Males,20,Chronic liver disease,6037
+178,2002,Males,89,Diseases of the skin and subcutaneous tissue (L00-L99),634
+179,2002,Males,38,Diseases of the musculoskeletal system and connective tissue (M00-M99),1315
+180,2002,Males,78,Rheumatoid arthritis and arthrosis (M05-M06;M15-M19),150
+181,2002,Males,2,Diseases of the genitourinary system  (N00-N99),3984
+182,2002,Males,26,Diseases of kidney and ureter,3099
+183,2002,Males,60,Pregnancy; childbirth and the puerperium (O00-O99),69
+184,2002,Males,99,Certain conditions originating in the perinatal period (P00-P96),947
+185,2002,Males,29,Congenital malformations; deformations and chromosomal abnormalities (Q00-Q99),777
+186,2002,Males,76,Congenital malformations of the nervous system,65
+187,2002,Males,80,Congenital malformations of the circulatory system,321
+188,2002,Males,18,Symptoms; signs and abnormal clinical and laboratory findings; not elsewhere classified (R00-R99),16071
+189,2002,Males,69,Sudden infant death syndrome,183
+190,2002,Males,42,Ill-defined and unknown causes of mortality,7475
+191,2002,Males,80,External causes of morbidity and mortality (V01-Y89),25024
+192,2002,Males,63,Accidents,15515
+193,2002,Males,96,Transport accidents (V01-V99),5672
+194,2002,Males,49,Falls,2673
+195,2002,Males,45,Accidental poisoning by and exposure to noxious substances,405
+196,2002,Males,28,Intentional self-harm,7865
+197,2002,Males,19,Assault,325
+198,2002,Males,36,Event of undetermined intent,594
+199,2002,Females,88,All causes of death (A00-Y89) excluding S00-T98,266555
+200,2002,Females,21,Certain infectious and parasitic diseases (A00-B99),5194
+201,2002,Females,9,Tuberculosis,462
+202,2002,Females,43,Meningococcal infection,15
+203,2002,Females,60,Viral hepatitis,405
+204,2002,Females,88,Human immunodeficiency virus [HIV] disease,257
+205,2002,Females,61,Neoplasms,62599
+206,2002,Females,40,Malignant neoplasms (C00-C97),59385
+207,2002,Females,84,Malignant neoplasm of lip; oral cavity; pharynx,796
+208,2002,Females,15,Malignant neoplasm of oesophagus,759
+209,2002,Females,67,Malignant neoplasm of stomach,2031
+210,2002,Females,23,Malignant neoplasm of colon,5867
+211,2002,Females,74,Malignant neoplasm of rectosigmoid junction; rectum; anus and anal canal,1792
+212,2002,Females,23,Malignant neoplasm of liver and intrahepatic bile ducts,1788
+213,2002,Females,57,Malignant neoplasm of pancreas,3659
+214,2002,Females,69,Malignant neoplasm of larynx;  trachea; bronchus and lung,5091
+215,2002,Females,74,Malignant melanoma of skin,666
+216,2002,Females,47,Malignant neoplasm of breast,11301
+217,2002,Females,30,Malignant neoplasm of cervix uteri,727
+218,2002,Females,67,Malignant neoplasm of other parts of uterus,2214
+219,2002,Females,23,Malignant neoplasm of ovary,3334
+220,2002,Females,55,Malignant neoplasm of prostate,69
+221,2002,Females,69,Malignant neoplasm of kidney; except renal pelvis,1143
+222,2002,Females,57,Malignant neoplasm of bladder,1019
+223,2002,Females,46,Malignant neoplasms; stated or presumed to be primary; of lymphoid; haematopoietic and related tissue,6024
+224,2002,Females,97,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,1229
+225,2002,Females,3,Endocrine; nutritional and metabolic diseases (E00-E90),12047
+226,2002,Females,8,Diabetes mellitus,6517
+227,2002,Females,71,Mental and behavioural disorders (F00-F99),10733
+228,2002,Females,16,Mental and behavioural disorders due to use of alcohol,625
+229,2002,Females,78,Drug dependence; toxicomania (F11-F16; F18-F19),25
+230,2002,Females,45,Diseases of the nervous system and the sense organs (G00-H95),13225
+231,2002,Females,42,Meningitis,92
+232,2002,Females,20,Diseases of the circulatory system (I00-I99),86365
+233,2002,Females,53,Ischaemic heart diseases,19549
+234,2002,Females,44,Other heart diseases (I30-I33; I39-I52),26604
+235,2002,Females,23,Cerebrovascular diseases,21835
+236,2002,Females,3,Diseases of the respiratory system (J00-J99),16378
+237,2002,Females,53,Influenza,337
+238,2002,Females,99,Pneumonia,6097
+239,2002,Females,52,Chronic lower respiratory diseases,3390
+240,2002,Females,69,Asthma and status asthmaticus,872
+241,2002,Females,72,Diseases of the digestive system (K00-K93),11529
+242,2002,Females,15,Ulcer of stomach; duodenum and jejunum,446
+243,2002,Females,53,Chronic liver disease,2600
+244,2002,Females,12,Diseases of the skin and subcutaneous tissue (L00-L99),1585
+245,2002,Females,31,Diseases of the musculoskeletal system and connective tissue (M00-M99),2630
+246,2002,Females,8,Rheumatoid arthritis and arthrosis (M05-M06;M15-M19),583
+247,2002,Females,62,Diseases of the genitourinary system  (N00-N99),4191
+248,2002,Females,52,Diseases of kidney and ureter,3251
+249,2002,Females,64,Pregnancy; childbirth and the puerperium (O00-O99),81
+250,2002,Females,14,Certain conditions originating in the perinatal period (P00-P96),698
+251,2002,Females,96,Congenital malformations; deformations and chromosomal abnormalities (Q00-Q99),703
+252,2002,Females,83,Congenital malformations of the nervous system,54
+253,2002,Females,59,Congenital malformations of the circulatory system,286
+254,2002,Females,88,Symptoms; signs and abnormal clinical and laboratory findings; not elsewhere classified (R00-R99),20475
+255,2002,Females,36,Sudden infant death syndrome,115
+256,2002,Females,84,Ill-defined and unknown causes of mortality,5982
+257,2002,Females,91,External causes of morbidity and mortality (V01-Y89),16893
+258,2002,Females,57,Accidents,12693
+259,2002,Females,87,Transport accidents (V01-V99),1930
+260,2002,Females,44,Falls,2790
+261,2002,Females,93,Accidental poisoning by and exposure to noxious substances,458
+262,2002,Females,8,Intentional self-harm,2945
+263,2002,Females,16,Assault,211
+264,2002,Females,41,Event of undetermined intent,232
+265,2003,Males,21,All causes of death (A00-Y89) excluding S00-T98,284729
+266,2003,Males,56,Certain infectious and parasitic diseases (A00-B99),5616
+267,2003,Males,60,Tuberculosis,518
+268,2003,Males,38,Meningococcal infection,26
+269,2003,Males,62,Viral hepatitis,406
+270,2003,Males,96,Human immunodeficiency virus [HIV] disease,794
+271,2003,Males,70,Neoplasms,92631
+272,2003,Males,100,Malignant neoplasms (C00-C97),89397
+273,2003,Males,73,Malignant neoplasm of lip; oral cavity; pharynx,3635
+274,2003,Males,55,Malignant neoplasm of oesophagus,3401
+275,2003,Males,24,Malignant neoplasm of stomach,3174
+276,2003,Males,63,Malignant neoplasm of colon,6314
+277,2003,Males,32,Malignant neoplasm of rectosigmoid junction; rectum; anus and anal canal,2325
+278,2003,Males,3,Malignant neoplasm of liver and intrahepatic bile ducts,5321
+279,2003,Males,24,Malignant neoplasm of pancreas,3946
+280,2003,Males,12,Malignant neoplasm of larynx;  trachea; bronchus and lung,22700
+281,2003,Males,19,Malignant melanoma of skin,764
+282,2003,Males,19,Malignant neoplasm of breast,188
+283,2003,Males,93,Malignant neoplasm of cervix uteri,69
+284,2003,Males,73,Malignant neoplasm of other parts of uterus,69
+285,2003,Males,47,Malignant neoplasm of ovary,69
+286,2003,Males,27,Malignant neoplasm of prostate,9695
+287,2003,Males,48,Malignant neoplasm of kidney; except renal pelvis,2001
+288,2003,Males,69,Malignant neoplasm of bladder,3490
+289,2003,Males,26,Malignant neoplasms; stated or presumed to be primary; of lymphoid; haematopoietic and related tissue,6797
+290,2003,Males,4,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,976
+291,2003,Males,33,Endocrine; nutritional and metabolic diseases (E00-E90),9403
+292,2003,Males,3,Diabetes mellitus,5611
+293,2003,Males,16,Mental and behavioural disorders (F00-F99),7841
+294,2003,Males,33,Mental and behavioural disorders due to use of alcohol,2552
+295,2003,Males,93,Drug dependence; toxicomania (F11-F16; F18-F19),120
+296,2003,Males,43,Diseases of the nervous system and the sense organs (G00-H95),10897
+297,2003,Males,24,Meningitis,82
+298,2003,Males,32,Diseases of the circulatory system (I00-I99),75040
+299,2003,Males,41,Ischaemic heart diseases,24213
+300,2003,Males,27,Other heart diseases (I30-I33; I39-I52),20036
+301,2003,Males,72,Cerebrovascular diseases,16120
+302,2003,Males,3,Diseases of the respiratory system (J00-J99),18939
+303,2003,Males,2,Influenza,192
+304,2003,Males,14,Pneumonia,5514
+305,2003,Males,42,Chronic lower respiratory diseases,6108
+306,2003,Males,52,Asthma and status asthmaticus,516
+307,2003,Males,93,Diseases of the digestive system (K00-K93),13453
+308,2003,Males,63,Ulcer of stomach; duodenum and jejunum,501
+309,2003,Males,39,Chronic liver disease,6122
+310,2003,Males,26,Diseases of the skin and subcutaneous tissue (L00-L99),613
+311,2003,Males,25,Diseases of the musculoskeletal system and connective tissue (M00-M99),1288
+312,2003,Males,17,Rheumatoid arthritis and arthrosis (M05-M06;M15-M19),155
+313,2003,Males,41,Diseases of the genitourinary system  (N00-N99),4121
+314,2003,Males,65,Diseases of kidney and ureter,3139
+315,2003,Males,1,Pregnancy; childbirth and the puerperium (O00-O99),69
+316,2003,Males,76,Certain conditions originating in the perinatal period (P00-P96),910
+317,2003,Males,65,Congenital malformations; deformations and chromosomal abnormalities (Q00-Q99),858
+318,2003,Males,96,Congenital malformations of the nervous system,77
+319,2003,Males,22,Congenital malformations of the circulatory system,341
+320,2003,Males,71,Symptoms; signs and abnormal clinical and laboratory findings; not elsewhere classified (R00-R99),17010
+321,2003,Males,43,Sudden infant death syndrome,173
+322,2003,Males,42,Ill-defined and unknown causes of mortality,7523
+323,2003,Males,85,External causes of morbidity and mortality (V01-Y89),25133
+324,2003,Males,54,Accidents,15299
+325,2003,Males,11,Transport accidents (V01-V99),4811
+326,2003,Males,77,Falls,2788
+327,2003,Males,43,Accidental poisoning by and exposure to noxious substances,513
+328,2003,Males,68,Intentional self-harm,8187
+329,2003,Males,39,Assault,306
+330,2003,Males,67,Event of undetermined intent,506
+331,2003,Females,37,All causes of death (A00-Y89) excluding S00-T98,277858
+332,2003,Females,41,Certain infectious and parasitic diseases (A00-B99),5781
+333,2003,Females,11,Tuberculosis,441
+334,2003,Females,66,Meningococcal infection,18
+335,2003,Females,2,Viral hepatitis,329
+336,2003,Females,42,Human immunodeficiency virus [HIV] disease,250
+337,2003,Females,10,Neoplasms,63145
+338,2003,Females,70,Malignant neoplasms (C00-C97),59885
+339,2003,Females,39,Malignant neoplasm of lip; oral cavity; pharynx,707
+340,2003,Females,72,Malignant neoplasm of oesophagus,690
+341,2003,Females,43,Malignant neoplasm of stomach,1878
+342,2003,Females,49,Malignant neoplasm of colon,6082
+343,2003,Females,89,Malignant neoplasm of rectosigmoid junction; rectum; anus and anal canal,1857
+344,2003,Females,44,Malignant neoplasm of liver and intrahepatic bile ducts,1856
+345,2003,Females,8,Malignant neoplasm of pancreas,3577
+346,2003,Females,51,Malignant neoplasm of larynx;  trachea; bronchus and lung,5422
+347,2003,Females,69,Malignant melanoma of skin,684
+348,2003,Females,34,Malignant neoplasm of breast,11276
+349,2003,Females,65,Malignant neoplasm of cervix uteri,782
+350,2003,Females,42,Malignant neoplasm of other parts of uterus,2299
+351,2003,Females,92,Malignant neoplasm of ovary,3279
+352,2003,Females,90,Malignant neoplasm of prostate,69
+353,2003,Females,73,Malignant neoplasm of kidney; except renal pelvis,1158
+354,2003,Females,99,Malignant neoplasm of bladder,1091
+355,2003,Females,85,Malignant neoplasms; stated or presumed to be primary; of lymphoid; haematopoietic and related tissue,6075
+356,2003,Females,38,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,1360
+357,2003,Females,11,Endocrine; nutritional and metabolic diseases (E00-E90),14081
+358,2003,Females,54,Diabetes mellitus,6744
+359,2003,Females,26,Mental and behavioural disorders (F00-F99),11487
+360,2003,Females,61,Mental and behavioural disorders due to use of alcohol,656
+361,2003,Females,89,Drug dependence; toxicomania (F11-F16; F18-F19),31
+362,2003,Females,57,Diseases of the nervous system and the sense organs (G00-H95),15098
+363,2003,Females,98,Meningitis,67
+364,2003,Females,1,Diseases of the circulatory system (I00-I99),87738
+365,2003,Females,60,Ischaemic heart diseases,19741
+366,2003,Females,14,Other heart diseases (I30-I33; I39-I52),27084
+367,2003,Females,77,Cerebrovascular diseases,22116
+368,2003,Females,61,Diseases of the respiratory system (J00-J99),17572
+369,2003,Females,95,Influenza,283
+370,2003,Females,92,Pneumonia,6578
+371,2003,Females,56,Chronic lower respiratory diseases,3714
+372,2003,Females,50,Asthma and status asthmaticus,895
+373,2003,Females,13,Diseases of the digestive system (K00-K93),11556
+374,2003,Females,57,Ulcer of stomach; duodenum and jejunum,481
+375,2003,Females,19,Chronic liver disease,2479
+376,2003,Females,87,Diseases of the skin and subcutaneous tissue (L00-L99),1680
+377,2003,Females,20,Diseases of the musculoskeletal system and connective tissue (M00-M99),2594
+378,2003,Females,63,Rheumatoid arthritis and arthrosis (M05-M06;M15-M19),555
+379,2003,Females,3,Diseases of the genitourinary system  (N00-N99),4437
+380,2003,Females,8,Diseases of kidney and ureter,3269
+381,2003,Females,42,Pregnancy; childbirth and the puerperium (O00-O99),66
+382,2003,Females,61,Certain conditions originating in the perinatal period (P00-P96),673
+383,2003,Females,60,Congenital malformations; deformations and chromosomal abnormalities (Q00-Q99),774
+384,2003,Females,44,Congenital malformations of the nervous system,82
+385,2003,Females,95,Congenital malformations of the circulatory system,287
+386,2003,Females,7,Symptoms; signs and abnormal clinical and laboratory findings; not elsewhere classified (R00-R99),22274
+387,2003,Females,94,Sudden infant death syndrome,90
+388,2003,Females,18,Ill-defined and unknown causes of mortality,6174
+389,2003,Females,96,External causes of morbidity and mortality (V01-Y89),17542
+390,2003,Females,58,Accidents,13624
+391,2003,Females,23,Transport accidents (V01-V99),1538
+392,2003,Females,8,Falls,3149
+393,2003,Females,59,Accidental poisoning by and exposure to noxious substances,507
+394,2003,Females,77,Intentional self-harm,2864
+395,2003,Females,68,Assault,197
+396,2003,Females,23,Event of undetermined intent,121
+397,2004,Males,90,All causes of death (A00-Y89) excluding S00-T98,268653
+398,2004,Males,94,Certain infectious and parasitic diseases (A00-B99),5067
+399,2004,Males,74,Tuberculosis,433
+400,2004,Males,46,Meningococcal infection,18
+401,2004,Males,78,Viral hepatitis,399
+402,2004,Males,4,Human immunodeficiency virus [HIV] disease,766
+403,2004,Males,15,Neoplasms,92071
+404,2004,Males,4,Malignant neoplasms (C00-C97),88852
+405,2004,Males,90,Malignant neoplasm of lip; oral cavity; pharynx,3623
+406,2004,Males,92,Malignant neoplasm of oesophagus,3257
+407,2004,Males,41,Malignant neoplasm of stomach,3216
+408,2004,Males,18,Malignant neoplasm of colon,6541
+409,2004,Males,26,Malignant neoplasm of rectosigmoid junction; rectum; anus and anal canal,2363
+410,2004,Males,70,Malignant neoplasm of liver and intrahepatic bile ducts,5345
+411,2004,Males,91,Malignant neoplasm of pancreas,4088
+412,2004,Males,39,Malignant neoplasm of larynx;  trachea; bronchus and lung,22965
+413,2004,Males,81,Malignant melanoma of skin,775
+414,2004,Males,40,Malignant neoplasm of breast,206
+415,2004,Males,96,Malignant neoplasm of cervix uteri,69
+416,2004,Males,27,Malignant neoplasm of other parts of uterus,69
+417,2004,Males,8,Malignant neoplasm of ovary,69
+418,2004,Males,11,Malignant neoplasm of prostate,9398
+419,2004,Males,68,Malignant neoplasm of kidney; except renal pelvis,1960
+420,2004,Males,42,Malignant neoplasm of bladder,3460
+421,2004,Males,98,Malignant neoplasms; stated or presumed to be primary; of lymphoid; haematopoietic and related tissue,6625
+422,2004,Males,17,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,1003
+423,2004,Males,95,Endocrine; nutritional and metabolic diseases (E00-E90),8426
+424,2004,Males,5,Diabetes mellitus,5344
+425,2004,Males,21,Mental and behavioural disorders (F00-F99),6921
+426,2004,Males,92,Mental and behavioural disorders due to use of alcohol,2371
+427,2004,Males,16,Drug dependence; toxicomania (F11-F16; F18-F19),144
+428,2004,Males,93,Diseases of the nervous system and the sense organs (G00-H95),9980
+429,2004,Males,23,Meningitis,83
+430,2004,Males,29,Diseases of the circulatory system (I00-I99),70815
+431,2004,Males,92,Ischaemic heart diseases,23420
+432,2004,Males,35,Other heart diseases (I30-I33; I39-I52),18837
+433,2004,Males,81,Cerebrovascular diseases,14515
+434,2004,Males,10,Diseases of the respiratory system (J00-J99),16230
+435,2004,Males,58,Influenza,56
+436,2004,Males,68,Pneumonia,4506
+437,2004,Males,3,Chronic lower respiratory diseases,5446
+438,2004,Males,14,Asthma and status asthmaticus,410
+439,2004,Males,70,Diseases of the digestive system (K00-K93),12538
+440,2004,Males,56,Ulcer of stomach; duodenum and jejunum,412
+441,2004,Males,63,Chronic liver disease,5601
+442,2004,Males,36,Diseases of the skin and subcutaneous tissue (L00-L99),555
+443,2004,Males,49,Diseases of the musculoskeletal system and connective tissue (M00-M99),1251
+444,2004,Males,28,Rheumatoid arthritis and arthrosis (M05-M06;M15-M19),152
+445,2004,Males,37,Diseases of the genitourinary system  (N00-N99),3973
+446,2004,Males,34,Diseases of kidney and ureter,3106
+447,2004,Males,63,Pregnancy; childbirth and the puerperium (O00-O99),69
+448,2004,Males,99,Certain conditions originating in the perinatal period (P00-P96),889
+449,2004,Males,38,Congenital malformations; deformations and chromosomal abnormalities (Q00-Q99),831
+450,2004,Males,83,Congenital malformations of the nervous system,87
+451,2004,Males,64,Congenital malformations of the circulatory system,340
+452,2004,Males,28,Symptoms; signs and abnormal clinical and laboratory findings; not elsewhere classified (R00-R99),14974
+453,2004,Males,29,Sudden infant death syndrome,160
+454,2004,Males,72,Ill-defined and unknown causes of mortality,6642
+455,2004,Males,63,External causes of morbidity and mortality (V01-Y89),23129
+456,2004,Males,49,Accidents,13599
+457,2004,Males,97,Transport accidents (V01-V99),4237
+458,2004,Males,79,Falls,2625
+459,2004,Males,98,Accidental poisoning by and exposure to noxious substances,467
+460,2004,Males,54,Intentional self-harm,8000
+461,2004,Males,16,Assault,311
+462,2004,Males,3,Event of undetermined intent,399
+463,2004,Females,22,All causes of death (A00-Y89) excluding S00-T98,250788
+464,2004,Females,33,Certain infectious and parasitic diseases (A00-B99),4824
+465,2004,Females,88,Tuberculosis,404
+466,2004,Females,68,Meningococcal infection,18
+467,2004,Females,14,Viral hepatitis,342
+468,2004,Females,100,Human immunodeficiency virus [HIV] disease,252
+469,2004,Females,13,Neoplasms,62907
+470,2004,Females,94,Malignant neoplasms (C00-C97),59794
+471,2004,Females,8,Malignant neoplasm of lip; oral cavity; pharynx,740
+472,2004,Females,78,Malignant neoplasm of oesophagus,697
+473,2004,Females,31,Malignant neoplasm of stomach,1894
+474,2004,Females,68,Malignant neoplasm of colon,5853
+475,2004,Females,94,Malignant neoplasm of rectosigmoid junction; rectum; anus and anal canal,1879
+476,2004,Females,43,Malignant neoplasm of liver and intrahepatic bile ducts,1839
+477,2004,Females,25,Malignant neoplasm of pancreas,3773
+478,2004,Females,56,Malignant neoplasm of larynx;  trachea; bronchus and lung,5677
+479,2004,Females,69,Malignant melanoma of skin,661
+480,2004,Females,92,Malignant neoplasm of breast,11333
+481,2004,Females,64,Malignant neoplasm of cervix uteri,768
+482,2004,Females,80,Malignant neoplasm of other parts of uterus,2254
+483,2004,Females,67,Malignant neoplasm of ovary,3272
+484,2004,Females,82,Malignant neoplasm of prostate,69
+485,2004,Females,38,Malignant neoplasm of kidney; except renal pelvis,1089
+486,2004,Females,77,Malignant neoplasm of bladder,1153
+487,2004,Females,12,Malignant neoplasms; stated or presumed to be primary; of lymphoid; haematopoietic and related tissue,5894
+488,2004,Females,55,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,1161
+489,2004,Females,39,Endocrine; nutritional and metabolic diseases (E00-E90),11101
+490,2004,Females,90,Diabetes mellitus,6053
+491,2004,Females,39,Mental and behavioural disorders (F00-F99),9372
+492,2004,Females,32,Mental and behavioural disorders due to use of alcohol,581
+493,2004,Females,76,Drug dependence; toxicomania (F11-F16; F18-F19),22
+494,2004,Females,67,Diseases of the nervous system and the sense organs (G00-H95),13853
+495,2004,Females,5,Meningitis,97
+496,2004,Females,34,Diseases of the circulatory system (I00-I99),79510
+497,2004,Females,85,Ischaemic heart diseases,17812
+498,2004,Females,48,Other heart diseases (I30-I33; I39-I52),24405
+499,2004,Females,38,Cerebrovascular diseases,20024
+500,2004,Females,10,Diseases of the respiratory system (J00-J99),14563
+501,2004,Females,78,Influenza,107
+502,2004,Females,25,Pneumonia,5176
+503,2004,Females,58,Chronic lower respiratory diseases,3286
+504,2004,Females,47,Asthma and status asthmaticus,753
+505,2004,Females,87,Diseases of the digestive system (K00-K93),10809
+506,2004,Females,83,Ulcer of stomach; duodenum and jejunum,431
+507,2004,Females,37,Chronic liver disease,2327
+508,2004,Females,53,Diseases of the skin and subcutaneous tissue (L00-L99),1354
+509,2004,Females,50,Diseases of the musculoskeletal system and connective tissue (M00-M99),2279
+510,2004,Females,5,Rheumatoid arthritis and arthrosis (M05-M06;M15-M19),475
+511,2004,Females,38,Diseases of the genitourinary system  (N00-N99),4052
+512,2004,Females,46,Diseases of kidney and ureter,3194
+513,2004,Females,65,Pregnancy; childbirth and the puerperium (O00-O99),61
+514,2004,Females,10,Certain conditions originating in the perinatal period (P00-P96),676
+515,2004,Females,41,Congenital malformations; deformations and chromosomal abnormalities (Q00-Q99),745
+516,2004,Females,33,Congenital malformations of the nervous system,74
+517,2004,Females,93,Congenital malformations of the circulatory system,293
+518,2004,Females,27,Symptoms; signs and abnormal clinical and laboratory findings; not elsewhere classified (R00-R99),18342
+519,2004,Females,26,Sudden infant death syndrome,106
+520,2004,Females,95,Ill-defined and unknown causes of mortality,5143
+521,2004,Females,38,External causes of morbidity and mortality (V01-Y89),15179
+522,2004,Females,31,Accidents,11078
+523,2004,Females,44,Transport accidents (V01-V99),1390
+524,2004,Females,77,Falls,2799
+525,2004,Females,94,Accidental poisoning by and exposure to noxious substances,466
+526,2004,Females,75,Intentional self-harm,2979
+527,2004,Females,26,Assault,213
+528,2004,Females,66,Event of undetermined intent,87
+529,2005,Males,17,All causes of death (A00-Y89) excluding S00-T98,276553
+530,2005,Males,24,Certain infectious and parasitic diseases (A00-B99),5206
+531,2005,Males,75,Tuberculosis,443
+532,2005,Males,13,Meningococcal infection,12
+533,2005,Males,48,Viral hepatitis,430
+534,2005,Males,68,Human immunodeficiency virus [HIV] disease,685
+535,2005,Males,74,Neoplasms,93550
+536,2005,Males,63,Malignant neoplasms (C00-C97),90157
+537,2005,Males,66,Malignant neoplasm of lip; oral cavity; pharynx,3442
+538,2005,Males,100,Malignant neoplasm of oesophagus,3323
+539,2005,Males,10,Malignant neoplasm of stomach,3177
+540,2005,Males,83,Malignant neoplasm of colon,6461
+541,2005,Males,54,Malignant neoplasm of rectosigmoid junction; rectum; anus and anal canal,2395
+542,2005,Males,5,Malignant neoplasm of liver and intrahepatic bile ducts,5516
+543,2005,Males,15,Malignant neoplasm of pancreas,4235
+544,2005,Males,70,Malignant neoplasm of larynx;  trachea; bronchus and lung,23467
+545,2005,Males,3,Malignant melanoma of skin,810
+546,2005,Males,40,Malignant neoplasm of breast,203
+547,2005,Males,14,Malignant neoplasm of cervix uteri,69
+548,2005,Males,97,Malignant neoplasm of other parts of uterus,69
+549,2005,Males,79,Malignant neoplasm of ovary,69
+550,2005,Males,11,Malignant neoplasm of prostate,9393
+551,2005,Males,43,Malignant neoplasm of kidney; except renal pelvis,1977
+552,2005,Males,69,Malignant neoplasm of bladder,3611
+553,2005,Males,57,Malignant neoplasms; stated or presumed to be primary; of lymphoid; haematopoietic and related tissue,6785
+554,2005,Males,63,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,983
+555,2005,Males,34,Endocrine; nutritional and metabolic diseases (E00-E90),8597
+556,2005,Males,35,Diabetes mellitus,5594
+557,2005,Males,3,Mental and behavioural disorders (F00-F99),7424
+558,2005,Males,40,Mental and behavioural disorders due to use of alcohol,2534
+559,2005,Males,19,Drug dependence; toxicomania (F11-F16; F18-F19),145
+560,2005,Males,65,Diseases of the nervous system and the sense organs (G00-H95),11207
+561,2005,Males,85,Meningitis,83
+562,2005,Males,85,Diseases of the circulatory system (I00-I99),71557
+563,2005,Males,56,Ischaemic heart diseases,23300
+564,2005,Males,1,Other heart diseases (I30-I33; I39-I52),19344
+565,2005,Males,79,Cerebrovascular diseases,14844
+566,2005,Males,11,Diseases of the respiratory system (J00-J99),18366
+567,2005,Males,23,Influenza,368
+568,2005,Males,46,Pneumonia,5225
+569,2005,Males,23,Chronic lower respiratory diseases,6026
+570,2005,Males,59,Asthma and status asthmaticus,433
+571,2005,Males,10,Diseases of the digestive system (K00-K93),12758
+572,2005,Males,96,Ulcer of stomach; duodenum and jejunum,466
+573,2005,Males,86,Chronic liver disease,5579
+574,2005,Males,81,Diseases of the skin and subcutaneous tissue (L00-L99),535
+575,2005,Males,87,Diseases of the musculoskeletal system and connective tissue (M00-M99),1256
+576,2005,Males,29,Rheumatoid arthritis and arthrosis (M05-M06;M15-M19),149
+577,2005,Males,21,Diseases of the genitourinary system  (N00-N99),4184
+578,2005,Males,14,Diseases of kidney and ureter,3228
+579,2005,Males,73,Pregnancy; childbirth and the puerperium (O00-O99),69
+580,2005,Males,67,Certain conditions originating in the perinatal period (P00-P96),867
+581,2005,Males,35,Congenital malformations; deformations and chromosomal abnormalities (Q00-Q99),828
+582,2005,Males,91,Congenital malformations of the nervous system,63
+583,2005,Males,35,Congenital malformations of the circulatory system,312
+584,2005,Males,90,Symptoms; signs and abnormal clinical and laboratory findings; not elsewhere classified (R00-R99),15836
+585,2005,Males,89,Sudden infant death syndrome,165
+586,2005,Males,39,Ill-defined and unknown causes of mortality,7084
+587,2005,Males,100,External causes of morbidity and mortality (V01-Y89),23399
+588,2005,Males,39,Accidents,13944
+589,2005,Males,69,Transport accidents (V01-V99),4204
+590,2005,Males,24,Falls,2635
+591,2005,Males,13,Accidental poisoning by and exposure to noxious substances,571
+592,2005,Males,74,Intentional self-harm,7958
+593,2005,Males,56,Assault,326
+594,2005,Males,68,Event of undetermined intent,376
+595,2005,Females,10,All causes of death (A00-Y89) excluding S00-T98,261633
+596,2005,Females,44,Certain infectious and parasitic diseases (A00-B99),5063
+597,2005,Females,80,Tuberculosis,418
+598,2005,Females,62,Meningococcal infection,19
+599,2005,Females,84,Viral hepatitis,355
+600,2005,Females,35,Human immunodeficiency virus [HIV] disease,232
+601,2005,Females,8,Neoplasms,64281
+602,2005,Females,61,Malignant neoplasms (C00-C97),61027
+603,2005,Females,74,Malignant neoplasm of lip; oral cavity; pharynx,754
+604,2005,Females,2,Malignant neoplasm of oesophagus,674
+605,2005,Females,6,Malignant neoplasm of stomach,1867
+606,2005,Females,54,Malignant neoplasm of colon,5990
+607,2005,Females,37,Malignant neoplasm of rectosigmoid junction; rectum; anus and anal canal,1968
+608,2005,Females,50,Malignant neoplasm of liver and intrahepatic bile ducts,1922
+609,2005,Females,68,Malignant neoplasm of pancreas,3907
+610,2005,Females,4,Malignant neoplasm of larynx;  trachea; bronchus and lung,6127
+611,2005,Females,96,Malignant melanoma of skin,716
+612,2005,Females,25,Malignant neoplasm of breast,11466
+613,2005,Females,4,Malignant neoplasm of cervix uteri,761
+614,2005,Females,1,Malignant neoplasm of other parts of uterus,2288
+615,2005,Females,17,Malignant neoplasm of ovary,3349
+616,2005,Females,8,Malignant neoplasm of prostate,69
+617,2005,Females,39,Malignant neoplasm of kidney; except renal pelvis,1156
+618,2005,Females,56,Malignant neoplasm of bladder,1139
+619,2005,Females,94,Malignant neoplasms; stated or presumed to be primary; of lymphoid; haematopoietic and related tissue,6018
+620,2005,Females,34,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,1231
+621,2005,Females,2,Endocrine; nutritional and metabolic diseases (E00-E90),11367
+622,2005,Females,37,Diabetes mellitus,6210
+623,2005,Females,87,Mental and behavioural disorders (F00-F99),9949
+624,2005,Females,65,Mental and behavioural disorders due to use of alcohol,639
+625,2005,Females,3,Drug dependence; toxicomania (F11-F16; F18-F19),30
+626,2005,Females,24,Diseases of the nervous system and the sense organs (G00-H95),15615
+627,2005,Females,3,Meningitis,79
+628,2005,Females,20,Diseases of the circulatory system (I00-I99),81322
+629,2005,Females,74,Ischaemic heart diseases,17842
+630,2005,Females,64,Other heart diseases (I30-I33; I39-I52),25664
+631,2005,Females,64,Cerebrovascular diseases,20076
+632,2005,Females,22,Diseases of the respiratory system (J00-J99),17268
+633,2005,Females,59,Influenza,643
+634,2005,Females,43,Pneumonia,6132
+635,2005,Females,69,Chronic lower respiratory diseases,3676
+636,2005,Females,90,Asthma and status asthmaticus,758
+637,2005,Females,4,Diseases of the digestive system (K00-K93),10950
+638,2005,Females,61,Ulcer of stomach; duodenum and jejunum,423
+639,2005,Females,14,Chronic liver disease,2340
+640,2005,Females,60,Diseases of the skin and subcutaneous tissue (L00-L99),1256
+641,2005,Females,58,Diseases of the musculoskeletal system and connective tissue (M00-M99),2370
+642,2005,Females,84,Rheumatoid arthritis and arthrosis (M05-M06;M15-M19),510
+643,2005,Females,7,Diseases of the genitourinary system  (N00-N99),4386
+644,2005,Females,81,Diseases of kidney and ureter,3411
+645,2005,Females,15,Pregnancy; childbirth and the puerperium (O00-O99),47
+646,2005,Females,75,Certain conditions originating in the perinatal period (P00-P96),661
+647,2005,Females,77,Congenital malformations; deformations and chromosomal abnormalities (Q00-Q99),717
+648,2005,Females,45,Congenital malformations of the nervous system,59
+649,2005,Females,34,Congenital malformations of the circulatory system,268
+650,2005,Females,33,Symptoms; signs and abnormal clinical and laboratory findings; not elsewhere classified (R00-R99),19781
+651,2005,Females,35,Sudden infant death syndrome,94
+652,2005,Females,17,Ill-defined and unknown causes of mortality,5884
+653,2005,Females,85,External causes of morbidity and mortality (V01-Y89),15369
+654,2005,Females,79,Accidents,11370
+655,2005,Females,62,Transport accidents (V01-V99),1404
+656,2005,Females,87,Falls,2775
+657,2005,Females,68,Accidental poisoning by and exposure to noxious substances,464
+658,2005,Females,2,Intentional self-harm,2937
+659,2005,Females,9,Assault,168
+660,2005,Females,61,Event of undetermined intent,67
+661,2006,Males,96,All causes of death (A00-Y89) excluding S00-T98,271406
+662,2006,Males,34,Certain infectious and parasitic diseases (A00-B99),5331
+663,2006,Males,45,Tuberculosis,402
+664,2006,Males,4,Meningococcal infection,14
+665,2006,Males,24,Viral hepatitis,407
+666,2006,Males,64,Human immunodeficiency virus [HIV] disease,668
+667,2006,Males,23,Neoplasms,93207
+668,2006,Males,84,Malignant neoplasms (C00-C97),89915
+669,2006,Males,52,Malignant neoplasm of lip; oral cavity; pharynx,3473
+670,2006,Males,3,Malignant neoplasm of oesophagus,3193
+671,2006,Males,38,Malignant neoplasm of stomach,3166
+672,2006,Males,48,Malignant neoplasm of colon,6379
+673,2006,Males,36,Malignant neoplasm of rectosigmoid junction; rectum; anus and anal canal,2422
+674,2006,Males,33,Malignant neoplasm of liver and intrahepatic bile ducts,5578
+675,2006,Males,52,Malignant neoplasm of pancreas,4307
+676,2006,Males,34,Malignant neoplasm of larynx;  trachea; bronchus and lung,23519
+677,2006,Males,86,Malignant melanoma of skin,818
+678,2006,Males,5,Malignant neoplasm of breast,191
+679,2006,Males,29,Malignant neoplasm of cervix uteri,69
+680,2006,Males,68,Malignant neoplasm of other parts of uterus,69
+681,2006,Males,52,Malignant neoplasm of ovary,69
+682,2006,Males,25,Malignant neoplasm of prostate,9236
+683,2006,Males,44,Malignant neoplasm of kidney; except renal pelvis,2034
+684,2006,Males,8,Malignant neoplasm of bladder,3579
+685,2006,Males,46,Malignant neoplasms; stated or presumed to be primary; of lymphoid; haematopoietic and related tissue,6836
+686,2006,Males,95,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,962
+687,2006,Males,13,Endocrine; nutritional and metabolic diseases (E00-E90),8372
+688,2006,Males,37,Diabetes mellitus,5433
+689,2006,Males,55,Mental and behavioural disorders (F00-F99),7201
+690,2006,Males,62,Mental and behavioural disorders due to use of alcohol,2477
+691,2006,Males,97,Drug dependence; toxicomania (F11-F16; F18-F19),176
+692,2006,Males,34,Diseases of the nervous system and the sense organs (G00-H95),11398
+693,2006,Males,7,Meningitis,78
+694,2006,Males,28,Diseases of the circulatory system (I00-I99),69625
+695,2006,Males,49,Ischaemic heart diseases,22363
+696,2006,Males,62,Other heart diseases (I30-I33; I39-I52),18915
+697,2006,Males,3,Cerebrovascular diseases,14235
+698,2006,Males,26,Diseases of the respiratory system (J00-J99),16581
+699,2006,Males,65,Influenza,50
+700,2006,Males,24,Pneumonia,4653
+701,2006,Males,74,Chronic lower respiratory diseases,5511
+702,2006,Males,15,Asthma and status asthmaticus,388
+703,2006,Males,23,Diseases of the digestive system (K00-K93),12758
+704,2006,Males,44,Ulcer of stomach; duodenum and jejunum,398
+705,2006,Males,88,Chronic liver disease,5554
+706,2006,Males,54,Diseases of the skin and subcutaneous tissue (L00-L99),546
+707,2006,Males,100,Diseases of the musculoskeletal system and connective tissue (M00-M99),1234
+708,2006,Males,65,Rheumatoid arthritis and arthrosis (M05-M06;M15-M19),137
+709,2006,Males,57,Diseases of the genitourinary system  (N00-N99),4192
+710,2006,Males,9,Diseases of kidney and ureter,3258
+711,2006,Males,2,Pregnancy; childbirth and the puerperium (O00-O99),69
+712,2006,Males,72,Certain conditions originating in the perinatal period (P00-P96),910
+713,2006,Males,86,Congenital malformations; deformations and chromosomal abnormalities (Q00-Q99),843
+714,2006,Males,44,Congenital malformations of the nervous system,84
+715,2006,Males,3,Congenital malformations of the circulatory system,330
+716,2006,Males,46,Symptoms; signs and abnormal clinical and laboratory findings; not elsewhere classified (R00-R99),15332
+717,2006,Males,32,Sudden infant death syndrome,144
+718,2006,Males,60,Ill-defined and unknown causes of mortality,6860
+719,2006,Males,5,External causes of morbidity and mortality (V01-Y89),22914
+720,2006,Males,60,Accidents,13524
+721,2006,Males,39,Transport accidents (V01-V99),3828
+722,2006,Males,14,Falls,2610
+723,2006,Males,46,Accidental poisoning by and exposure to noxious substances,555
+724,2006,Males,35,Intentional self-harm,7740
+725,2006,Males,37,Assault,327
+726,2006,Males,30,Event of undetermined intent,414
+727,2006,Females,34,All causes of death (A00-Y89) excluding S00-T98,255160
+728,2006,Females,65,Certain infectious and parasitic diseases (A00-B99),4961
+729,2006,Females,24,Tuberculosis,341
+730,2006,Females,17,Meningococcal infection,17
+731,2006,Females,3,Viral hepatitis,335
+732,2006,Females,76,Human immunodeficiency virus [HIV] disease,218
+733,2006,Females,49,Neoplasms,64651
+734,2006,Females,63,Malignant neoplasms (C00-C97),61464
+735,2006,Females,27,Malignant neoplasm of lip; oral cavity; pharynx,734
+736,2006,Females,38,Malignant neoplasm of oesophagus,719
+737,2006,Females,67,Malignant neoplasm of stomach,1784
+738,2006,Females,24,Malignant neoplasm of colon,5917
+739,2006,Females,78,Malignant neoplasm of rectosigmoid junction; rectum; anus and anal canal,1892
+740,2006,Females,47,Malignant neoplasm of liver and intrahepatic bile ducts,1972
+741,2006,Females,41,Malignant neoplasm of pancreas,4049
+742,2006,Females,41,Malignant neoplasm of larynx;  trachea; bronchus and lung,6534
+743,2006,Females,38,Malignant melanoma of skin,741
+744,2006,Females,5,Malignant neoplasm of breast,11584
+745,2006,Females,19,Malignant neoplasm of cervix uteri,744
+746,2006,Females,21,Malignant neoplasm of other parts of uterus,2389
+747,2006,Females,41,Malignant neoplasm of ovary,3363
+748,2006,Females,6,Malignant neoplasm of prostate,69
+749,2006,Females,31,Malignant neoplasm of kidney; except renal pelvis,1110
+750,2006,Females,86,Malignant neoplasm of bladder,1156
+751,2006,Females,57,Malignant neoplasms; stated or presumed to be primary; of lymphoid; haematopoietic and related tissue,5879
+752,2006,Females,70,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,1272
+753,2006,Females,9,Endocrine; nutritional and metabolic diseases (E00-E90),11117
+754,2006,Females,75,Diabetes mellitus,6086
+755,2006,Females,91,Mental and behavioural disorders (F00-F99),9632
+756,2006,Females,22,Mental and behavioural disorders due to use of alcohol,619
+757,2006,Females,53,Drug dependence; toxicomania (F11-F16; F18-F19),25
+758,2006,Females,71,Diseases of the nervous system and the sense organs (G00-H95),16212
+759,2006,Females,11,Meningitis,76
+760,2006,Females,96,Diseases of the circulatory system (I00-I99),78832
+761,2006,Females,31,Ischaemic heart diseases,17030
+762,2006,Females,81,Other heart diseases (I30-I33; I39-I52),25073
+763,2006,Females,13,Cerebrovascular diseases,19390
+764,2006,Females,62,Diseases of the respiratory system (J00-J99),14546
+765,2006,Females,29,Influenza,77
+766,2006,Females,65,Pneumonia,5190
+767,2006,Females,26,Chronic lower respiratory diseases,3305
+768,2006,Females,8,Asthma and status asthmaticus,657
+769,2006,Females,39,Diseases of the digestive system (K00-K93),10820
+770,2006,Females,74,Ulcer of stomach; duodenum and jejunum,393
+771,2006,Females,18,Chronic liver disease,2308
+772,2006,Females,83,Diseases of the skin and subcutaneous tissue (L00-L99),1284
+773,2006,Females,7,Diseases of the musculoskeletal system and connective tissue (M00-M99),2305
+774,2006,Females,18,Rheumatoid arthritis and arthrosis (M05-M06;M15-M19),449
+775,2006,Females,30,Diseases of the genitourinary system  (N00-N99),4331
+776,2006,Females,5,Diseases of kidney and ureter,3391
+777,2006,Females,39,Pregnancy; childbirth and the puerperium (O00-O99),68
+778,2006,Females,83,Certain conditions originating in the perinatal period (P00-P96),638
+779,2006,Females,42,Congenital malformations; deformations and chromosomal abnormalities (Q00-Q99),724
+780,2006,Females,46,Congenital malformations of the nervous system,64
+781,2006,Females,100,Congenital malformations of the circulatory system,292
+782,2006,Females,57,Symptoms; signs and abnormal clinical and laboratory findings; not elsewhere classified (R00-R99),18966
+783,2006,Females,30,Sudden infant death syndrome,113
+784,2006,Females,100,Ill-defined and unknown causes of mortality,5473
+785,2006,Females,30,External causes of morbidity and mortality (V01-Y89),14801
+786,2006,Females,60,Accidents,10861
+787,2006,Females,80,Transport accidents (V01-V99),1197
+788,2006,Females,62,Falls,2709
+789,2006,Females,52,Accidental poisoning by and exposure to noxious substances,510
+790,2006,Females,63,Intentional self-harm,2861
+791,2006,Females,93,Assault,159
+792,2006,Females,14,Event of undetermined intent,76
+793,2007,Males,13,All causes of death (A00-Y89) excluding S00-T98,273401
+794,2007,Males,7,Certain infectious and parasitic diseases (A00-B99),5266
+795,2007,Males,70,Tuberculosis,364
+796,2007,Males,19,Meningococcal infection,17
+797,2007,Males,94,Viral hepatitis,408
+798,2007,Males,35,Human immunodeficiency virus [HIV] disease,597
+799,2007,Males,19,Neoplasms,93773
+800,2007,Males,83,Malignant neoplasms (C00-C97),90397
+801,2007,Males,65,Malignant neoplasm of lip; oral cavity; pharynx,3317
+802,2007,Males,82,Malignant neoplasm of oesophagus,3196
+803,2007,Males,35,Malignant neoplasm of stomach,3123
+804,2007,Males,72,Malignant neoplasm of colon,6416
+805,2007,Males,82,Malignant neoplasm of rectosigmoid junction; rectum; anus and anal canal,2357
+806,2007,Males,65,Malignant neoplasm of liver and intrahepatic bile ducts,5529
+807,2007,Males,75,Malignant neoplasm of pancreas,4493
+808,2007,Males,66,Malignant neoplasm of larynx;  trachea; bronchus and lung,23584
+809,2007,Males,69,Malignant melanoma of skin,879
+810,2007,Males,61,Malignant neoplasm of breast,225
+811,2007,Males,79,Malignant neoplasm of cervix uteri,69
+812,2007,Males,77,Malignant neoplasm of other parts of uterus,69
+813,2007,Males,32,Malignant neoplasm of ovary,69
+814,2007,Males,87,Malignant neoplasm of prostate,9297
+815,2007,Males,37,Malignant neoplasm of kidney; except renal pelvis,2015
+816,2007,Males,73,Malignant neoplasm of bladder,3674
+817,2007,Males,35,Malignant neoplasms; stated or presumed to be primary; of lymphoid; haematopoietic and related tissue,6958
+818,2007,Males,91,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,1025
+819,2007,Males,75,Endocrine; nutritional and metabolic diseases (E00-E90),8392
+820,2007,Males,6,Diabetes mellitus,5367
+821,2007,Males,74,Mental and behavioural disorders (F00-F99),7420
+822,2007,Males,70,Mental and behavioural disorders due to use of alcohol,2438
+823,2007,Males,56,Drug dependence; toxicomania (F11-F16; F18-F19),172
+824,2007,Males,25,Diseases of the nervous system and the sense organs (G00-H95),11612
+825,2007,Males,42,Meningitis,79
+826,2007,Males,48,Diseases of the circulatory system (I00-I99),69630
+827,2007,Males,88,Ischaemic heart diseases,22027
+828,2007,Males,79,Other heart diseases (I30-I33; I39-I52),19416
+829,2007,Males,18,Cerebrovascular diseases,14085
+830,2007,Males,59,Diseases of the respiratory system (J00-J99),17257
+831,2007,Males,45,Influenza,96
+832,2007,Males,28,Pneumonia,5118
+833,2007,Males,100,Chronic lower respiratory diseases,5649
+834,2007,Males,98,Asthma and status asthmaticus,368
+835,2007,Males,36,Diseases of the digestive system (K00-K93),12641
+836,2007,Males,95,Ulcer of stomach; duodenum and jejunum,398
+837,2007,Males,83,Chronic liver disease,5453
+838,2007,Males,4,Diseases of the skin and subcutaneous tissue (L00-L99),504
+839,2007,Males,55,Diseases of the musculoskeletal system and connective tissue (M00-M99),1138
+840,2007,Males,33,Rheumatoid arthritis and arthrosis (M05-M06;M15-M19),138
+841,2007,Males,25,Diseases of the genitourinary system  (N00-N99),4180
+842,2007,Males,20,Diseases of kidney and ureter,3239
+843,2007,Males,76,Pregnancy; childbirth and the puerperium (O00-O99),69
+844,2007,Males,55,Certain conditions originating in the perinatal period (P00-P96),859
+845,2007,Males,36,Congenital malformations; deformations and chromosomal abnormalities (Q00-Q99),899
+846,2007,Males,6,Congenital malformations of the nervous system,69
+847,2007,Males,85,Congenital malformations of the circulatory system,354
+848,2007,Males,100,Symptoms; signs and abnormal clinical and laboratory findings; not elsewhere classified (R00-R99),16045
+849,2007,Males,35,Sudden infant death syndrome,133
+850,2007,Males,37,Ill-defined and unknown causes of mortality,7022
+851,2007,Males,58,External causes of morbidity and mortality (V01-Y89),22760
+852,2007,Males,94,Accidents,13585
+853,2007,Males,51,Transport accidents (V01-V99),3697
+854,2007,Males,91,Falls,2657
+855,2007,Males,40,Accidental poisoning by and exposure to noxious substances,709
+856,2007,Males,89,Intentional self-harm,7559
+857,2007,Males,46,Assault,268
+858,2007,Males,69,Event of undetermined intent,425
+859,2007,Females,94,All causes of death (A00-Y89) excluding S00-T98,257419
+860,2007,Females,77,Certain infectious and parasitic diseases (A00-B99),4938
+861,2007,Females,75,Tuberculosis,318
+862,2007,Females,87,Meningococcal infection,17
+863,2007,Females,40,Viral hepatitis,317
+864,2007,Females,56,Human immunodeficiency virus [HIV] disease,197
+865,2007,Females,24,Neoplasms,64724
+866,2007,Females,98,Malignant neoplasms (C00-C97),61499
+867,2007,Females,43,Malignant neoplasm of lip; oral cavity; pharynx,733
+868,2007,Females,30,Malignant neoplasm of oesophagus,780
+869,2007,Females,71,Malignant neoplasm of stomach,1734
+870,2007,Females,45,Malignant neoplasm of colon,5937
+871,2007,Females,46,Malignant neoplasm of rectosigmoid junction; rectum; anus and anal canal,1842
+872,2007,Females,15,Malignant neoplasm of liver and intrahepatic bile ducts,1937
+873,2007,Females,98,Malignant neoplasm of pancreas,4246
+874,2007,Females,12,Malignant neoplasm of larynx;  trachea; bronchus and lung,6729
+875,2007,Females,91,Malignant melanoma of skin,675
+876,2007,Females,3,Malignant neoplasm of breast,11522
+877,2007,Females,53,Malignant neoplasm of cervix uteri,714
+878,2007,Females,65,Malignant neoplasm of other parts of uterus,2481
+879,2007,Females,33,Malignant neoplasm of ovary,3393
+880,2007,Females,1,Malignant neoplasm of prostate,69
+881,2007,Females,60,Malignant neoplasm of kidney; except renal pelvis,1021
+882,2007,Females,71,Malignant neoplasm of bladder,1183
+883,2007,Females,78,Malignant neoplasms; stated or presumed to be primary; of lymphoid; haematopoietic and related tissue,5887
+884,2007,Females,76,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,1163
+885,2007,Females,67,Endocrine; nutritional and metabolic diseases (E00-E90),11019
+886,2007,Females,84,Diabetes mellitus,6134
+887,2007,Females,63,Mental and behavioural disorders (F00-F99),9692
+888,2007,Females,49,Mental and behavioural disorders due to use of alcohol,601
+889,2007,Females,6,Drug dependence; toxicomania (F11-F16; F18-F19),27
+890,2007,Females,7,Diseases of the nervous system and the sense organs (G00-H95),17305
+891,2007,Females,28,Meningitis,89
+892,2007,Females,83,Diseases of the circulatory system (I00-I99),78472
+893,2007,Females,59,Ischaemic heart diseases,16663
+894,2007,Females,54,Other heart diseases (I30-I33; I39-I52),25355
+895,2007,Females,11,Cerebrovascular diseases,18724
+896,2007,Females,59,Diseases of the respiratory system (J00-J99),15348
+897,2007,Females,85,Influenza,153
+898,2007,Females,53,Pneumonia,5401
+899,2007,Females,49,Chronic lower respiratory diseases,3539
+900,2007,Females,89,Asthma and status asthmaticus,694
+901,2007,Females,29,Diseases of the digestive system (K00-K93),10833
+902,2007,Females,23,Ulcer of stomach; duodenum and jejunum,413
+903,2007,Females,44,Chronic liver disease,2321
+904,2007,Females,27,Diseases of the skin and subcutaneous tissue (L00-L99),1200
+905,2007,Females,62,Diseases of the musculoskeletal system and connective tissue (M00-M99),2317
+906,2007,Females,61,Rheumatoid arthritis and arthrosis (M05-M06;M15-M19),494
+907,2007,Females,23,Diseases of the genitourinary system  (N00-N99),4528
+908,2007,Females,52,Diseases of kidney and ureter,3551
+909,2007,Females,91,Pregnancy; childbirth and the puerperium (O00-O99),70
+910,2007,Females,71,Certain conditions originating in the perinatal period (P00-P96),642
+911,2007,Females,82,Congenital malformations; deformations and chromosomal abnormalities (Q00-Q99),711
+912,2007,Females,58,Congenital malformations of the nervous system,52
+913,2007,Females,26,Congenital malformations of the circulatory system,254
+914,2007,Females,63,Symptoms; signs and abnormal clinical and laboratory findings; not elsewhere classified (R00-R99),19640
+915,2007,Females,16,Sudden infant death syndrome,85
+916,2007,Females,68,Ill-defined and unknown causes of mortality,5703
+917,2007,Females,58,External causes of morbidity and mortality (V01-Y89),14817
+918,2007,Females,95,Accidents,10951
+919,2007,Females,68,Transport accidents (V01-V99),1162
+920,2007,Females,87,Falls,2832
+921,2007,Females,77,Accidental poisoning by and exposure to noxious substances,517
+922,2007,Females,72,Intentional self-harm,2744
+923,2007,Females,61,Assault,166
+924,2007,Females,62,Event of undetermined intent,82
+925,2008,Males,30,All causes of death (A00-Y89) excluding S00-T98,277598
+926,2008,Males,30,Certain infectious and parasitic diseases (A00-B99),5434
+927,2008,Males,32,Tuberculosis,343
+928,2008,Males,74,Meningococcal infection,18
+929,2008,Males,85,Viral hepatitis,462
+930,2008,Males,31,Human immunodeficiency virus [HIV] disease,518
+931,2008,Males,93,Neoplasms,93872
+932,2008,Males,83,Malignant neoplasms (C00-C97),90481
+933,2008,Males,71,Malignant neoplasm of lip; oral cavity; pharynx,3217
+934,2008,Males,42,Malignant neoplasm of oesophagus,3175
+935,2008,Males,30,Malignant neoplasm of stomach,3020
+936,2008,Males,60,Malignant neoplasm of colon,6505
+937,2008,Males,12,Malignant neoplasm of rectosigmoid junction; rectum; anus and anal canal,2533
+938,2008,Males,65,Malignant neoplasm of liver and intrahepatic bile ducts,5544
+939,2008,Males,51,Malignant neoplasm of pancreas,4767
+940,2008,Males,17,Malignant neoplasm of larynx;  trachea; bronchus and lung,23491
+941,2008,Males,85,Malignant melanoma of skin,916
+942,2008,Males,48,Malignant neoplasm of breast,195
+943,2008,Males,89,Malignant neoplasm of cervix uteri,69
+944,2008,Males,83,Malignant neoplasm of other parts of uterus,69
+945,2008,Males,20,Malignant neoplasm of ovary,69
+946,2008,Males,86,Malignant neoplasm of prostate,9195
+947,2008,Males,73,Malignant neoplasm of kidney; except renal pelvis,2059
+948,2008,Males,22,Malignant neoplasm of bladder,3527
+949,2008,Males,21,Malignant neoplasms; stated or presumed to be primary; of lymphoid; haematopoietic and related tissue,7043
+950,2008,Males,34,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,1004
+951,2008,Males,90,Endocrine; nutritional and metabolic diseases (E00-E90),8892
+952,2008,Males,98,Diabetes mellitus,5615
+953,2008,Males,28,Mental and behavioural disorders (F00-F99),7718
+954,2008,Males,58,Mental and behavioural disorders due to use of alcohol,2510
+955,2008,Males,44,Drug dependence; toxicomania (F11-F16; F18-F19),171
+956,2008,Males,49,Diseases of the nervous system and the sense organs (G00-H95),12373
+957,2008,Males,92,Meningitis,79
+958,2008,Males,88,Diseases of the circulatory system (I00-I99),69721
+959,2008,Males,74,Ischaemic heart diseases,21842
+960,2008,Males,63,Other heart diseases (I30-I33; I39-I52),19698
+961,2008,Males,76,Cerebrovascular diseases,13951
+962,2008,Males,21,Diseases of the respiratory system (J00-J99),17516
+963,2008,Males,67,Influenza,82
+964,2008,Males,8,Pneumonia,5107
+965,2008,Males,68,Chronic lower respiratory diseases,5808
+966,2008,Males,61,Asthma and status asthmaticus,336
+967,2008,Males,43,Diseases of the digestive system (K00-K93),12981
+968,2008,Males,68,Ulcer of stomach; duodenum and jejunum,440
+969,2008,Males,12,Chronic liver disease,5440
+970,2008,Males,27,Diseases of the skin and subcutaneous tissue (L00-L99),532
+971,2008,Males,91,Diseases of the musculoskeletal system and connective tissue (M00-M99),1344
+972,2008,Males,86,Rheumatoid arthritis and arthrosis (M05-M06;M15-M19),136
+973,2008,Males,81,Diseases of the genitourinary system  (N00-N99),4540
+974,2008,Males,17,Diseases of kidney and ureter,3559
+975,2008,Males,99,Pregnancy; childbirth and the puerperium (O00-O99),69
+976,2008,Males,15,Certain conditions originating in the perinatal period (P00-P96),876
+977,2008,Males,15,Congenital malformations; deformations and chromosomal abnormalities (Q00-Q99),762
+978,2008,Males,57,Congenital malformations of the nervous system,68
+979,2008,Males,88,Congenital malformations of the circulatory system,279
+980,2008,Males,32,Symptoms; signs and abnormal clinical and laboratory findings; not elsewhere classified (R00-R99),16895
+981,2008,Males,64,Sudden infant death syndrome,152
+982,2008,Males,56,Ill-defined and unknown causes of mortality,7323
+983,2008,Males,50,External causes of morbidity and mortality (V01-Y89),23138
+984,2008,Males,98,Accidents,13815
+985,2008,Males,18,Transport accidents (V01-V99),3506
+986,2008,Males,93,Falls,2836
+987,2008,Males,77,Accidental poisoning by and exposure to noxious substances,785
+988,2008,Males,64,Intentional self-harm,7797
+989,2008,Males,90,Assault,347
+990,2008,Males,1,Event of undetermined intent,300
+991,2008,Females,51,All causes of death (A00-Y89) excluding S00-T98,265541
+992,2008,Females,26,Certain infectious and parasitic diseases (A00-B99),5486
+993,2008,Females,89,Tuberculosis,310
+994,2008,Females,82,Meningococcal infection,17
+995,2008,Females,44,Viral hepatitis,359
+996,2008,Females,61,Human immunodeficiency virus [HIV] disease,180
+997,2008,Females,3,Neoplasms,66897
+998,2008,Females,88,Malignant neoplasms (C00-C97),63494
+999,2008,Females,90,Malignant neoplasm of lip; oral cavity; pharynx,762
+1000,2008,Females,86,Malignant neoplasm of oesophagus,776
+1001,2008,Females,88,Malignant neoplasm of stomach,1821
+1002,2008,Females,14,Malignant neoplasm of colon,6156
+1003,2008,Females,81,Malignant neoplasm of rectosigmoid junction; rectum; anus and anal canal,1959
+1004,2008,Females,41,Malignant neoplasm of liver and intrahepatic bile ducts,2119
+1005,2008,Females,53,Malignant neoplasm of pancreas,4404
+1006,2008,Females,9,Malignant neoplasm of larynx;  trachea; bronchus and lung,7043
+1007,2008,Females,16,Malignant melanoma of skin,750
+1008,2008,Females,49,Malignant neoplasm of breast,11781
+1009,2008,Females,12,Malignant neoplasm of cervix uteri,776
+1010,2008,Females,95,Malignant neoplasm of other parts of uterus,2434
+1011,2008,Females,79,Malignant neoplasm of ovary,3458
+1012,2008,Females,58,Malignant neoplasm of prostate,69
+1013,2008,Females,69,Malignant neoplasm of kidney; except renal pelvis,1049
+1014,2008,Females,82,Malignant neoplasm of bladder,1177
+1015,2008,Females,74,Malignant neoplasms; stated or presumed to be primary; of lymphoid; haematopoietic and related tissue,6099
+1016,2008,Females,54,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,1252
+1017,2008,Females,89,Endocrine; nutritional and metabolic diseases (E00-E90),11286
+1018,2008,Females,1,Diabetes mellitus,6098
+1019,2008,Females,13,Mental and behavioural disorders (F00-F99),9962
+1020,2008,Females,41,Mental and behavioural disorders due to use of alcohol,629
+1021,2008,Females,33,Drug dependence; toxicomania (F11-F16; F18-F19),31
+1022,2008,Females,63,Diseases of the nervous system and the sense organs (G00-H95),18698
+1023,2008,Females,100,Meningitis,75
+1024,2008,Females,35,Diseases of the circulatory system (I00-I99),79820
+1025,2008,Females,83,Ischaemic heart diseases,16464
+1026,2008,Females,18,Other heart diseases (I30-I33; I39-I52),26136
+1027,2008,Females,26,Cerebrovascular diseases,19211
+1028,2008,Females,77,Diseases of the respiratory system (J00-J99),15743
+1029,2008,Females,54,Influenza,124
+1030,2008,Females,15,Pneumonia,5701
+1031,2008,Females,78,Chronic lower respiratory diseases,3483
+1032,2008,Females,73,Asthma and status asthmaticus,613
+1033,2008,Females,29,Diseases of the digestive system (K00-K93),11049
+1034,2008,Females,32,Ulcer of stomach; duodenum and jejunum,448
+1035,2008,Females,89,Chronic liver disease,2234
+1036,2008,Females,5,Diseases of the skin and subcutaneous tissue (L00-L99),1124
+1037,2008,Females,33,Diseases of the musculoskeletal system and connective tissue (M00-M99),2399
+1038,2008,Females,93,Rheumatoid arthritis and arthrosis (M05-M06;M15-M19),505
+1039,2008,Females,83,Diseases of the genitourinary system  (N00-N99),4676
+1040,2008,Females,76,Diseases of kidney and ureter,3606
+1041,2008,Females,1,Pregnancy; childbirth and the puerperium (O00-O99),64
+1042,2008,Females,13,Certain conditions originating in the perinatal period (P00-P96),695
+1043,2008,Females,5,Congenital malformations; deformations and chromosomal abnormalities (Q00-Q99),740
+1044,2008,Females,75,Congenital malformations of the nervous system,59
+1045,2008,Females,82,Congenital malformations of the circulatory system,261
+1046,2008,Females,36,Symptoms; signs and abnormal clinical and laboratory findings; not elsewhere classified (R00-R99),20789
+1047,2008,Females,39,Sudden infant death syndrome,109
+1048,2008,Females,33,Ill-defined and unknown causes of mortality,6305
+1049,2008,Females,87,External causes of morbidity and mortality (V01-Y89),14861
+1050,2008,Females,97,Accidents,11051
+1051,2008,Females,72,Transport accidents (V01-V99),1045
+1052,2008,Females,82,Falls,2815
+1053,2008,Females,43,Accidental poisoning by and exposure to noxious substances,630
+1054,2008,Females,37,Intentional self-harm,2768
+1055,2008,Females,75,Assault,166
+1056,2008,Females,97,Event of undetermined intent,68
