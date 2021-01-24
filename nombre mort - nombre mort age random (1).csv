@@ -17,9 +17,9 @@ UNIQUE_ID,TIME,SEX,AGE,ICD10,Value
 16,2001,Males,33,"Malignant neoplasm of larynx,  trachea, bronchus and lung",22457
 17,2001,Males,74,Malignant melanoma of skin,761
 18,2001,Males,28,Malignant neoplasm of breast,177
-19,2001,Males,49,Malignant neoplasm of cervix uteri,:
-20,2001,Males,96,Malignant neoplasm of other parts of uterus,:
-21,2001,Males,81,Malignant neoplasm of ovary,:
+19,2001,Males,49,Malignant neoplasm of cervix uteri,69
+20,2001,Males,96,Malignant neoplasm of other parts of uterus,69
+21,2001,Males,81,Malignant neoplasm of ovary,69
 22,2001,Males,100,Malignant neoplasm of prostate,9327
 23,2001,Males,27,"Malignant neoplasm of kidney, except renal pelvis",1937
 24,2001,Males,96,Malignant neoplasm of bladder,3231
@@ -49,7 +49,7 @@ UNIQUE_ID,TIME,SEX,AGE,ICD10,Value
 48,2001,Males,100,"Rheumatoid arthritis and arthrosis (M05-M06,M15-M19)",164
 49,2001,Males,12,Diseases of the genitourinary system  (N00-N99),3698
 50,2001,Males,64,Diseases of kidney and ureter,2809
-51,2001,Males,58,"Pregnancy, childbirth and the puerperium (O00-O99)",:
+51,2001,Males,58,"Pregnancy, childbirth and the puerperium (O00-O99)",69
 52,2001,Males,72,Certain conditions originating in the perinatal period (P00-P96),1006
 53,2001,Males,54,"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",892
 54,2001,Males,87,Congenital malformations of the nervous system,88
@@ -86,7 +86,7 @@ UNIQUE_ID,TIME,SEX,AGE,ICD10,Value
 85,2001,Females,13,Malignant neoplasm of cervix uteri,793
 86,2001,Females,14,Malignant neoplasm of other parts of uterus,2192
 87,2001,Females,77,Malignant neoplasm of ovary,3260
-88,2001,Females,75,Malignant neoplasm of prostate,:
+88,2001,Females,75,Malignant neoplasm of prostate,69
 89,2001,Females,68,"Malignant neoplasm of kidney, except renal pelvis",1125
 90,2001,Females,22,Malignant neoplasm of bladder,1029
 91,2001,Females,99,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",5976
@@ -149,9 +149,9 @@ UNIQUE_ID,TIME,SEX,AGE,ICD10,Value
 148,2002,Males,57,"Malignant neoplasm of larynx,  trachea, bronchus and lung",22533
 149,2002,Males,9,Malignant melanoma of skin,733
 150,2002,Males,62,Malignant neoplasm of breast,188
-151,2002,Males,17,Malignant neoplasm of cervix uteri,:
-152,2002,Males,11,Malignant neoplasm of other parts of uterus,:
-153,2002,Males,89,Malignant neoplasm of ovary,:
+151,2002,Males,17,Malignant neoplasm of cervix uteri,69
+152,2002,Males,11,Malignant neoplasm of other parts of uterus,69
+153,2002,Males,89,Malignant neoplasm of ovary,69
 154,2002,Males,93,Malignant neoplasm of prostate,9526
 155,2002,Males,12,"Malignant neoplasm of kidney, except renal pelvis",1929
 156,2002,Males,2,Malignant neoplasm of bladder,3306
@@ -181,7 +181,7 @@ UNIQUE_ID,TIME,SEX,AGE,ICD10,Value
 180,2002,Males,78,"Rheumatoid arthritis and arthrosis (M05-M06,M15-M19)",150
 181,2002,Males,2,Diseases of the genitourinary system  (N00-N99),3984
 182,2002,Males,26,Diseases of kidney and ureter,3099
-183,2002,Males,60,"Pregnancy, childbirth and the puerperium (O00-O99)",:
+183,2002,Males,60,"Pregnancy, childbirth and the puerperium (O00-O99)",69
 184,2002,Males,99,Certain conditions originating in the perinatal period (P00-P96),947
 185,2002,Males,29,"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",777
 186,2002,Males,76,Congenital malformations of the nervous system,65
@@ -218,7 +218,7 @@ UNIQUE_ID,TIME,SEX,AGE,ICD10,Value
 217,2002,Females,30,Malignant neoplasm of cervix uteri,727
 218,2002,Females,67,Malignant neoplasm of other parts of uterus,2214
 219,2002,Females,23,Malignant neoplasm of ovary,3334
-220,2002,Females,55,Malignant neoplasm of prostate,:
+220,2002,Females,55,Malignant neoplasm of prostate,69
 221,2002,Females,69,"Malignant neoplasm of kidney, except renal pelvis",1143
 222,2002,Females,57,Malignant neoplasm of bladder,1019
 223,2002,Females,46,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",6024
@@ -281,9 +281,9 @@ UNIQUE_ID,TIME,SEX,AGE,ICD10,Value
 280,2003,Males,12,"Malignant neoplasm of larynx,  trachea, bronchus and lung",22700
 281,2003,Males,19,Malignant melanoma of skin,764
 282,2003,Males,19,Malignant neoplasm of breast,188
-283,2003,Males,93,Malignant neoplasm of cervix uteri,:
-284,2003,Males,73,Malignant neoplasm of other parts of uterus,:
-285,2003,Males,47,Malignant neoplasm of ovary,:
+283,2003,Males,93,Malignant neoplasm of cervix uteri,69
+284,2003,Males,73,Malignant neoplasm of other parts of uterus,69
+285,2003,Males,47,Malignant neoplasm of ovary,69
 286,2003,Males,27,Malignant neoplasm of prostate,9695
 287,2003,Males,48,"Malignant neoplasm of kidney, except renal pelvis",2001
 288,2003,Males,69,Malignant neoplasm of bladder,3490
@@ -313,7 +313,7 @@ UNIQUE_ID,TIME,SEX,AGE,ICD10,Value
 312,2003,Males,17,"Rheumatoid arthritis and arthrosis (M05-M06,M15-M19)",155
 313,2003,Males,41,Diseases of the genitourinary system  (N00-N99),4121
 314,2003,Males,65,Diseases of kidney and ureter,3139
-315,2003,Males,1,"Pregnancy, childbirth and the puerperium (O00-O99)",:
+315,2003,Males,1,"Pregnancy, childbirth and the puerperium (O00-O99)",69
 316,2003,Males,76,Certain conditions originating in the perinatal period (P00-P96),910
 317,2003,Males,65,"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",858
 318,2003,Males,96,Congenital malformations of the nervous system,77
@@ -350,7 +350,7 @@ UNIQUE_ID,TIME,SEX,AGE,ICD10,Value
 349,2003,Females,65,Malignant neoplasm of cervix uteri,782
 350,2003,Females,42,Malignant neoplasm of other parts of uterus,2299
 351,2003,Females,92,Malignant neoplasm of ovary,3279
-352,2003,Females,90,Malignant neoplasm of prostate,:
+352,2003,Females,90,Malignant neoplasm of prostate,69
 353,2003,Females,73,"Malignant neoplasm of kidney, except renal pelvis",1158
 354,2003,Females,99,Malignant neoplasm of bladder,1091
 355,2003,Females,85,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",6075
@@ -413,9 +413,9 @@ UNIQUE_ID,TIME,SEX,AGE,ICD10,Value
 412,2004,Males,39,"Malignant neoplasm of larynx,  trachea, bronchus and lung",22965
 413,2004,Males,81,Malignant melanoma of skin,775
 414,2004,Males,40,Malignant neoplasm of breast,206
-415,2004,Males,96,Malignant neoplasm of cervix uteri,:
-416,2004,Males,27,Malignant neoplasm of other parts of uterus,:
-417,2004,Males,8,Malignant neoplasm of ovary,:
+415,2004,Males,96,Malignant neoplasm of cervix uteri,69
+416,2004,Males,27,Malignant neoplasm of other parts of uterus,69
+417,2004,Males,8,Malignant neoplasm of ovary,69
 418,2004,Males,11,Malignant neoplasm of prostate,9398
 419,2004,Males,68,"Malignant neoplasm of kidney, except renal pelvis",1960
 420,2004,Males,42,Malignant neoplasm of bladder,3460
@@ -445,7 +445,7 @@ UNIQUE_ID,TIME,SEX,AGE,ICD10,Value
 444,2004,Males,28,"Rheumatoid arthritis and arthrosis (M05-M06,M15-M19)",152
 445,2004,Males,37,Diseases of the genitourinary system  (N00-N99),3973
 446,2004,Males,34,Diseases of kidney and ureter,3106
-447,2004,Males,63,"Pregnancy, childbirth and the puerperium (O00-O99)",:
+447,2004,Males,63,"Pregnancy, childbirth and the puerperium (O00-O99)",69
 448,2004,Males,99,Certain conditions originating in the perinatal period (P00-P96),889
 449,2004,Males,38,"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",831
 450,2004,Males,83,Congenital malformations of the nervous system,87
@@ -482,7 +482,7 @@ UNIQUE_ID,TIME,SEX,AGE,ICD10,Value
 481,2004,Females,64,Malignant neoplasm of cervix uteri,768
 482,2004,Females,80,Malignant neoplasm of other parts of uterus,2254
 483,2004,Females,67,Malignant neoplasm of ovary,3272
-484,2004,Females,82,Malignant neoplasm of prostate,:
+484,2004,Females,82,Malignant neoplasm of prostate,69
 485,2004,Females,38,"Malignant neoplasm of kidney, except renal pelvis",1089
 486,2004,Females,77,Malignant neoplasm of bladder,1153
 487,2004,Females,12,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",5894
@@ -545,9 +545,9 @@ UNIQUE_ID,TIME,SEX,AGE,ICD10,Value
 544,2005,Males,70,"Malignant neoplasm of larynx,  trachea, bronchus and lung",23467
 545,2005,Males,3,Malignant melanoma of skin,810
 546,2005,Males,40,Malignant neoplasm of breast,203
-547,2005,Males,14,Malignant neoplasm of cervix uteri,:
-548,2005,Males,97,Malignant neoplasm of other parts of uterus,:
-549,2005,Males,79,Malignant neoplasm of ovary,:
+547,2005,Males,14,Malignant neoplasm of cervix uteri,69
+548,2005,Males,97,Malignant neoplasm of other parts of uterus,69
+549,2005,Males,79,Malignant neoplasm of ovary,69
 550,2005,Males,11,Malignant neoplasm of prostate,9393
 551,2005,Males,43,"Malignant neoplasm of kidney, except renal pelvis",1977
 552,2005,Males,69,Malignant neoplasm of bladder,3611
@@ -577,7 +577,7 @@ UNIQUE_ID,TIME,SEX,AGE,ICD10,Value
 576,2005,Males,29,"Rheumatoid arthritis and arthrosis (M05-M06,M15-M19)",149
 577,2005,Males,21,Diseases of the genitourinary system  (N00-N99),4184
 578,2005,Males,14,Diseases of kidney and ureter,3228
-579,2005,Males,73,"Pregnancy, childbirth and the puerperium (O00-O99)",:
+579,2005,Males,73,"Pregnancy, childbirth and the puerperium (O00-O99)",69
 580,2005,Males,67,Certain conditions originating in the perinatal period (P00-P96),867
 581,2005,Males,35,"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",828
 582,2005,Males,91,Congenital malformations of the nervous system,63
@@ -614,7 +614,7 @@ UNIQUE_ID,TIME,SEX,AGE,ICD10,Value
 613,2005,Females,4,Malignant neoplasm of cervix uteri,761
 614,2005,Females,1,Malignant neoplasm of other parts of uterus,2288
 615,2005,Females,17,Malignant neoplasm of ovary,3349
-616,2005,Females,8,Malignant neoplasm of prostate,:
+616,2005,Females,8,Malignant neoplasm of prostate,69
 617,2005,Females,39,"Malignant neoplasm of kidney, except renal pelvis",1156
 618,2005,Females,56,Malignant neoplasm of bladder,1139
 619,2005,Females,94,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",6018
@@ -677,9 +677,9 @@ UNIQUE_ID,TIME,SEX,AGE,ICD10,Value
 676,2006,Males,34,"Malignant neoplasm of larynx,  trachea, bronchus and lung",23519
 677,2006,Males,86,Malignant melanoma of skin,818
 678,2006,Males,5,Malignant neoplasm of breast,191
-679,2006,Males,29,Malignant neoplasm of cervix uteri,:
-680,2006,Males,68,Malignant neoplasm of other parts of uterus,:
-681,2006,Males,52,Malignant neoplasm of ovary,:
+679,2006,Males,29,Malignant neoplasm of cervix uteri,69
+680,2006,Males,68,Malignant neoplasm of other parts of uterus,69
+681,2006,Males,52,Malignant neoplasm of ovary,69
 682,2006,Males,25,Malignant neoplasm of prostate,9236
 683,2006,Males,44,"Malignant neoplasm of kidney, except renal pelvis",2034
 684,2006,Males,8,Malignant neoplasm of bladder,3579
@@ -709,7 +709,7 @@ UNIQUE_ID,TIME,SEX,AGE,ICD10,Value
 708,2006,Males,65,"Rheumatoid arthritis and arthrosis (M05-M06,M15-M19)",137
 709,2006,Males,57,Diseases of the genitourinary system  (N00-N99),4192
 710,2006,Males,9,Diseases of kidney and ureter,3258
-711,2006,Males,2,"Pregnancy, childbirth and the puerperium (O00-O99)",:
+711,2006,Males,2,"Pregnancy, childbirth and the puerperium (O00-O99)",69
 712,2006,Males,72,Certain conditions originating in the perinatal period (P00-P96),910
 713,2006,Males,86,"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",843
 714,2006,Males,44,Congenital malformations of the nervous system,84
@@ -746,7 +746,7 @@ UNIQUE_ID,TIME,SEX,AGE,ICD10,Value
 745,2006,Females,19,Malignant neoplasm of cervix uteri,744
 746,2006,Females,21,Malignant neoplasm of other parts of uterus,2389
 747,2006,Females,41,Malignant neoplasm of ovary,3363
-748,2006,Females,6,Malignant neoplasm of prostate,:
+748,2006,Females,6,Malignant neoplasm of prostate,69
 749,2006,Females,31,"Malignant neoplasm of kidney, except renal pelvis",1110
 750,2006,Females,86,Malignant neoplasm of bladder,1156
 751,2006,Females,57,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",5879
@@ -809,9 +809,9 @@ UNIQUE_ID,TIME,SEX,AGE,ICD10,Value
 808,2007,Males,66,"Malignant neoplasm of larynx,  trachea, bronchus and lung",23584
 809,2007,Males,69,Malignant melanoma of skin,879
 810,2007,Males,61,Malignant neoplasm of breast,225
-811,2007,Males,79,Malignant neoplasm of cervix uteri,:
-812,2007,Males,77,Malignant neoplasm of other parts of uterus,:
-813,2007,Males,32,Malignant neoplasm of ovary,:
+811,2007,Males,79,Malignant neoplasm of cervix uteri,69
+812,2007,Males,77,Malignant neoplasm of other parts of uterus,69
+813,2007,Males,32,Malignant neoplasm of ovary,69
 814,2007,Males,87,Malignant neoplasm of prostate,9297
 815,2007,Males,37,"Malignant neoplasm of kidney, except renal pelvis",2015
 816,2007,Males,73,Malignant neoplasm of bladder,3674
@@ -841,7 +841,7 @@ UNIQUE_ID,TIME,SEX,AGE,ICD10,Value
 840,2007,Males,33,"Rheumatoid arthritis and arthrosis (M05-M06,M15-M19)",138
 841,2007,Males,25,Diseases of the genitourinary system  (N00-N99),4180
 842,2007,Males,20,Diseases of kidney and ureter,3239
-843,2007,Males,76,"Pregnancy, childbirth and the puerperium (O00-O99)",:
+843,2007,Males,76,"Pregnancy, childbirth and the puerperium (O00-O99)",69
 844,2007,Males,55,Certain conditions originating in the perinatal period (P00-P96),859
 845,2007,Males,36,"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",899
 846,2007,Males,6,Congenital malformations of the nervous system,69
@@ -878,7 +878,7 @@ UNIQUE_ID,TIME,SEX,AGE,ICD10,Value
 877,2007,Females,53,Malignant neoplasm of cervix uteri,714
 878,2007,Females,65,Malignant neoplasm of other parts of uterus,2481
 879,2007,Females,33,Malignant neoplasm of ovary,3393
-880,2007,Females,1,Malignant neoplasm of prostate,:
+880,2007,Females,1,Malignant neoplasm of prostate,69
 881,2007,Females,60,"Malignant neoplasm of kidney, except renal pelvis",1021
 882,2007,Females,71,Malignant neoplasm of bladder,1183
 883,2007,Females,78,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",5887
@@ -941,9 +941,9 @@ UNIQUE_ID,TIME,SEX,AGE,ICD10,Value
 940,2008,Males,17,"Malignant neoplasm of larynx,  trachea, bronchus and lung",23491
 941,2008,Males,85,Malignant melanoma of skin,916
 942,2008,Males,48,Malignant neoplasm of breast,195
-943,2008,Males,89,Malignant neoplasm of cervix uteri,:
-944,2008,Males,83,Malignant neoplasm of other parts of uterus,:
-945,2008,Males,20,Malignant neoplasm of ovary,:
+943,2008,Males,89,Malignant neoplasm of cervix uteri,69
+944,2008,Males,83,Malignant neoplasm of other parts of uterus,69
+945,2008,Males,20,Malignant neoplasm of ovary,69
 946,2008,Males,86,Malignant neoplasm of prostate,9195
 947,2008,Males,73,"Malignant neoplasm of kidney, except renal pelvis",2059
 948,2008,Males,22,Malignant neoplasm of bladder,3527
@@ -973,7 +973,7 @@ UNIQUE_ID,TIME,SEX,AGE,ICD10,Value
 972,2008,Males,86,"Rheumatoid arthritis and arthrosis (M05-M06,M15-M19)",136
 973,2008,Males,81,Diseases of the genitourinary system  (N00-N99),4540
 974,2008,Males,17,Diseases of kidney and ureter,3559
-975,2008,Males,99,"Pregnancy, childbirth and the puerperium (O00-O99)",:
+975,2008,Males,99,"Pregnancy, childbirth and the puerperium (O00-O99)",69
 976,2008,Males,15,Certain conditions originating in the perinatal period (P00-P96),876
 977,2008,Males,15,"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",762
 978,2008,Males,57,Congenital malformations of the nervous system,68
@@ -1010,7 +1010,7 @@ UNIQUE_ID,TIME,SEX,AGE,ICD10,Value
 1009,2008,Females,12,Malignant neoplasm of cervix uteri,776
 1010,2008,Females,95,Malignant neoplasm of other parts of uterus,2434
 1011,2008,Females,79,Malignant neoplasm of ovary,3458
-1012,2008,Females,58,Malignant neoplasm of prostate,:
+1012,2008,Females,58,Malignant neoplasm of prostate,69
 1013,2008,Females,69,"Malignant neoplasm of kidney, except renal pelvis",1049
 1014,2008,Females,82,Malignant neoplasm of bladder,1177
 1015,2008,Females,74,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",6099
