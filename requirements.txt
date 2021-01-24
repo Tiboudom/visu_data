@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+sklearn
+pandas
+seaborn
+plotly
+squarify
+graphviz
